@@ -1,0 +1,147 @@
+body {
+    background-color: bisque;
+}
+
+header {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4vw;
+    padding: 10px;
+}
+
+#buttonContainer {
+    min-width: 80vw;
+    background-color:bisque;
+    display:flex;
+    justify-content: center;
+    justify-content:space-between;
+    font-size: 15px;
+    line-height: 0.5em;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 50px;
+}
+
+#imageContainer {
+    background-color:bisque;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+#qKey {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 8vw;
+    padding: 0px;
+    margin: 0px;
+    border: darkmagenta;
+    border-style: dashed;
+    background-color:white;
+    cursor: pointer;
+}
+
+#wKey {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 8vw;
+    padding: 0px;
+    margin: 0px;  
+    border: darkmagenta;
+    border-style: dashed;
+    background-color:white;
+    cursor: pointer;
+}
+
+#eKey {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 8vw;
+    padding: 0px;
+    margin: 0px;
+    border: darkmagenta;
+    border-style: dashed;
+    background-color:white;
+    cursor: pointer;
+}
+
+#rKey {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 8vw;
+    padding: 0px;
+    margin: 0px;
+    border: darkmagenta;
+    border-style: dashed;
+    background-color:white;
+    cursor: pointer;
+}
+
+#tKey{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 8vw;
+    padding: 0px;
+    margin: 0px;
+    border: darkmagenta;
+    border-style: dashed;
+    background-color:white;
+    cursor: pointer;
+}
+
+#yKey{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 8vw;
+    padding: 0px;
+    margin: 0px;
+    border: darkmagenta;
+    border-style: dashed;
+    background-color:white;
+    cursor: pointer;
+}
+
+#uKey {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 8vw;
+    padding: 0px;
+    margin: 0px;
+    border: darkmagenta;
+    border-style: dashed;
+    background-color:white;
+    cursor: pointer;
+}
+
+#iKey {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 8vw;
+    padding: 0px;
+    margin: 0px;
+    border: darkmagenta;
+    border-style: dashed;
+    background-color:white;
+    cursor: pointer;
+}
+
+#oKey{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 8vw;
+    padding: 0px;
+    margin: 0px;
+    border: darkmagenta;
+    border-style: dashed;
+    background-color:white;
+    cursor: pointer;
+}
